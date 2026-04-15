@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Henrique
 
-<!--
-**HrqHmk/HrqHmk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor de software com experiência em C++ e foco em Backend Python
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias
+
+- Python | FastAPI | APIs REST
+- Testes automatizados (Pytest)
+- SQL | PostgreSQL | MongoDB 
+- Docker
+- C++
+
+---
+
+## 📌 Sobre mim
+
+Atuo profissionalmente com desenvolvimento em C++, trabalhando com sistemas ERP e integrações entre diferentes sistemas e parceiros, garantindo a comunicação e consistência de dados.
+
+Atualmente, venho direcionando minha carreira para o desenvolvimento backend com Python, construindo APIs e aplicações focadas em performance, organização de código e boas práticas de arquitetura.
+
+---
+
+## 📂 Projetos em destaque
+
+🔹 Log Intelligence API  
+API para análise de logs com métricas de latência, taxa de erro e percentil p95, desenvolvida com FastAPI e banco de dados relacional  
+👉 https://github.com/HrqHmk/log-intelligence-api
+
+---
+
