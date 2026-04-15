@@ -32,8 +32,6 @@
 
 ---
 
----
-
 ## 📌 Sobre mim
 
 Atuo profissionalmente com desenvolvimento em C++, trabalhando com sistemas ERP e integrações entre diferentes sistemas e parceiros, garantindo a comunicação e consistência de dados.
@@ -50,11 +48,3 @@ API para análise de logs com métricas de latência, taxa de erro e percentil p
 
 ---
 
-
-## 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HrqHmk&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HrqHmk&layout=compact&theme=tokyonight)
-
----
